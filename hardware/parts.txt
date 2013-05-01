@@ -1,0 +1,71 @@
+Partlist
+
+Exported from geiger.sch at 28.4.2013 10.19
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value                      Device                     Package      Library    Sheet
+
+C1       100u                       CPOL-EUE2.5-6              E2,5-6       rcl        1
+C2       330u                       CPOL-EUE2.5-6              E2,5-6       rcl        1
+C3       1.5n                       C-EUC0603                  C0603        rcl        1
+C4       10n                        C-EU050-024X044            C050-024X044 rcl        1
+C5       10n                        C-EU050-024X044            C050-024X044 rcl        1
+C6       330p                       C-EUC0603                  C0603        rcl        1
+C7       1u                         C-EUC0603                  C0603        rcl        1
+C8       18p                        C-EUC0603                  C0603        rcl        1
+C9       18p                        C-EUC0603                  C0603        rcl        1
+C10      0.33u                      C-EUC0603                  C0603        rcl        1
+C11      0.1u                       C-EUC0603                  C0603        rcl        1
+C12      330p                       C-EUC0603                  C0603        rcl        1
+C13      330p                       C-EUC0603                  C0603        rcl        1
+C14      100n                       C-EUC0603                  C0603        rcl        1
+D1       B0540WS                    B0540WS                    SOD323-R     hf         1
+D2       B0540WS                    B0540WS                    SOD323-R     hf         1
+D3       BA159                      BA159                      DO41-10      hf         1
+G1       CI-22BG/SI-3BG             CI-22BG/SI-3BG             FUSE102074   hf         1
+IC1      MC34063                    MC34063                    SO8          hf         1
+IC2      ATMEGA8U2                  ATMEGA8U2                  TQFP32-08    hf         1
+IC3      UA78L05                    UA78L05                    SOT89        hf         1
+L1       220u                       AIAP-01                    AIAP         hf         1
+L2       1m                         BOURNS8012                 L8012        hf         1
+LCD      TAYDA-LCD                  TAYDA-LCD                  LCD-PINOUT   hf         1
+LED1     green                      LEDCHIP-LED0603            CHIP-LED0603 led        1
+P1       20k                        TRIMPOT                    TRIMPOT      hf         1
+Q1       FQN1N60C                   FQN1N60C                   TO92         hf         1
+Q2       16MHz                      XTAL/S                     QS           hf         1
+R1       1M                         R-US_R0603                 R0603        resistor   1
+R2       1M                         R-US_R0603                 R0603        resistor   1
+R3       1M                         R-US_R0603                 R0603        resistor   1
+R4       10k                        R-US_R0603                 R0603        resistor   1
+R5       100k                       R-US_R0603                 R0603        resistor   1
+R6       10k                        R-EU_R0603                 R0603        resistor   1
+R7       2.2k                       R-EU_R0603                 R0603        resistor   1
+R8       180                        R-EU_R0603                 R0603        resistor   1
+R9       1M                         R-US_0207/7                0207/7       rcl        1
+R10      4.7M                       R-US_0207/7                0207/7       rcl        1
+R11      2.2k                       R-EU_R0603                 R0603        resistor   1
+R12      100k                       R-EU_R0603                 R0603        resistor   1
+R13      18k                        R-EU_R0603                 R0603        resistor   1
+R14      22                         R-US_R0603                 R0603        resistor   1
+R15      22                         R-US_R0603                 R0603        resistor   1
+R16      10k                        R-US_R0603                 R0603        resistor   1
+R17      2.2k                       R-US_R0603                 R0603        resistor   1
+R18      10M                        R-US_0207/7                0207/7       rcl        1
+R19      27.4k                      R-US_R0603                 R0603        resistor   1
+R20      2.2k                       R-US_R0603                 R0603        resistor   1
+R21      2.2k                       R-US_R0603                 R0603        resistor   1
+R22      180                        R-US_R0603                 R0603        resistor   1
+RX1      PTC-FUSE-0805              PTC-FUSE-0805              R0805        hf         1
+RX2      PTC-FUSE-0805              PTC-FUSE-0805              R0805        hf         1
+SP1      BUZZER                     BUZZER                     BUZZER       hf         1
+SV1      SPI                        MA03-2                     MA03-2       con-lstb   1
+T1       BC817                      BC817-40-NPN-SOT23-BEC     SOT23-BEC    transistor 1
+T2       BC807                      BC807-40-PNP-SOT23-BEC     SOT23-BEC    transistor 1
+T3       DMG1013                    DMG1013                    SOT323       hf         1
+T4       BC817                      BC817-40-NPN-SOT23-BEC     SOT23-BEC    transistor 1
+T5       BC817                      BC817-40-NPN-SOT23-BEC     SOT23-BEC    transistor 1
+T6       BC817                      BC817-40-NPN-SOT23-BEC     SOT23-BEC    transistor 1
+X1       MINI-USB-SCHIELD-32005-201 MINI-USB-SCHIELD-32005-201 32005-201    hf         1
